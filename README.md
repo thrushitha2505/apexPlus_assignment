@@ -69,7 +69,7 @@ PUT /vehicles/:id: Update a vehicle.
 DELETE /vehicles/:id: Delete a vehicle.
 
 Repository
-The source code is available on GitHub at .
+The source code is available on GitHub at https://github.com/thrushitha2505/apexPlus_assignment.git
 
 
 
